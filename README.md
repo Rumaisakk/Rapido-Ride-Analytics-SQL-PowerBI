@@ -30,3 +30,12 @@ Enabled data-driven decisions for:
 
 ## 🛠 Tools Used
 SQL | Power BI | DAX | Data Modeling
+## 📷 Dashboard Preview
+
+![Dashboard Preview](Screenshot_1.png)
+![Dashboard Preview](Screenshot_2.png)
+![Dashboard Preview](Screenshot_3.png)
+![Dashboard Preview](Screenshot_4.png)
+![Dashboard Preview](Screenshot_5.png)
+![Dashboard Preview](Screenshot_6.png)
+![Dashboard Preview](Screenshot_7.png)
